@@ -1,3 +1,3 @@
-# Lab Materials & Resources
+# Cover Letter Template
 
-This repo is a small but hopefully useful collection of materials for labs. Check out the directories for more information, including templates.
+This repo was forked from [Geoffrey Hannigan, PhD](https://github.com/Microbiology/Helpful_Lab_Materials)
